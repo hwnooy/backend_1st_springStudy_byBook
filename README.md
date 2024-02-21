@@ -5,6 +5,9 @@
 백엔드 쪽에 관심을 가지고 나서부터 기존에 있던 자바를 베이스로 스프링을 공부해보고자, 
 "(스스로 하는 프로그래밍 공부, 코딩자율학습) 스프링부트3 자바 백엔드 개발 입문-홍팍지음"이란 
 책을 통해서 이론을 익히고 실습을 하고 블로그에 기록하는 방식과 현 레포지토리에 작업물을 저장했습니다.
+https://daywnme.tistory.com/category/BackEnd/Spring%20Boot?page=3
+
+
 ![image](https://github.com/hwnooy/SpringBoot3/assets/93791124/8671dbc0-f115-4144-8f9f-8a35ced22c91)
 
 ![image](https://github.com/hwnooy/SpringBoot3/assets/93791124/ea041f0c-8aa7-402b-afa8-8b637773c1b6)
