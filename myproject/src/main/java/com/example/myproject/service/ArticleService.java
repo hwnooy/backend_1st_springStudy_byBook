@@ -8,6 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -19,8 +20,9 @@ public class ArticleService {
     // 라피지터리와 협업할 수 있게 추가.
     private ArticleRepository articleRepository;
 
-    public List<Article> index() {
-        return articleRepository.findAll();
+    public ArrayList<Article> index() {
+        ArrayList<Article> all = articleRepository.findAll();
+        return all;
     }
 
     public Article show(Long id) {
